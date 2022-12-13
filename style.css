@@ -117,9 +117,6 @@ h1,h2{
 
 
 
-
-
-
 /* Navbar */
 nav{
     box-shadow: var(--shadow);
@@ -138,7 +135,7 @@ nav.container{
     position: relative;
 }
 nav img{
-    width: 154px;
+    width: 249px;
 }
 nav ul{
     justify-content: end;
@@ -533,7 +530,7 @@ nav .container{
 }
 
 
-/* Not decided section */
+/* Not Decided section */
 .aman-row{
     grid-template-columns: repeat(2, 1fr);
     /* height: 60vh; */
@@ -547,7 +544,7 @@ nav .container{
     margin-left: 10rem;
 }
 .aman-row .col-left b{
-    font-size: 2rem;
+    font-size: 4rem;
 }
 .aman-row .col-left h1{
     font-size: 4.2rem;
